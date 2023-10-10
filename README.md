@@ -9,9 +9,9 @@ Typescript: escalabilidad de la aplicación.
 
 ## Funciones
 
-Realizar reservas y anular reservas
-Sistema de notificaciones por correo electrónico de la reserva
-Pasarela de pago de la reserva
+Realizar reservas y anular reservas.
+Sistema de notificaciones por correo electrónico de la reserva.
+Pasarela de pago de la reserva.
 
 ## Documentación del proyecto
 
