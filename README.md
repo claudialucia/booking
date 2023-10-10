@@ -19,5 +19,5 @@ https://acortar.link/hYJCHx
 
 ## Preview de "Reserva Gourmet" 
 
-https://postimg.cc/gallery/nr6R9L4
+![index](https://github.com/claudialucia/booking/assets/97206195/801e5431-d1fe-4b77-91b7-c648ab0e9163)
 
