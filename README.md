@@ -22,5 +22,7 @@ https://acortar.link/hYJCHx
 ## Preview de "Reserva Gourmet" 
 
 ![index](https://github.com/claudialucia/booking/assets/97206195/801e5431-d1fe-4b77-91b7-c648ab0e9163)
+![Imagen de WhatsApp 2023-10-11 a las 12 40 29_4e3dd86c](https://github.com/claudialucia/booking/assets/97206195/54129346-3690-4c44-8e77-5a0bc884607f)
+
 
 
